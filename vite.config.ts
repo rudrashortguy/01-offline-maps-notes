@@ -11,9 +11,9 @@ export default defineConfig({
       manifest: {
         name: 'GeoNotes PWA',
         short_name: 'GeoNotes',
-        description: 'Offline-first map note-taking app with Geolocation and IndexedDB persistence.',
+        description: 'Offline geospatial notes & tile caching with map simulation and local storage.',
         theme_color: '#4f46e5',
-        background_color: '#020617',
+        background_color: '#09090b',
         display: 'standalone',
         icons: [
           {
